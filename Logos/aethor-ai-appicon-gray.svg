@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <path d="M1200,221.16L1200,978.84C1200,1100.9 1100.9,1200 978.84,1200L221.16,1200C99.098,1200 0,1100.9 0,978.84L0,221.16C0,99.098 99.098,0 221.16,0L978.84,0C1100.9,0 1200,99.098 1200,221.16Z" style="fill:#3c3c3c;"/>
+        <path d="M1200,221.16L1200,978.84C1200,1100.9 1100.9,1200 978.84,1200L221.16,1200C99.098,1200 0,1100.9 0,978.84L0,221.16C0,99.098 99.098,0 221.16,0L978.84,0C1100.9,0 1200,99.098 1200,221.16ZM1190.5,221.16C1190.5,104.342 1095.66,9.5 978.84,9.5L221.16,9.5C104.342,9.5 9.5,104.342 9.5,221.16L9.5,978.84C9.5,1095.66 104.342,1190.5 221.16,1190.5L978.84,1190.5C1095.66,1190.5 1190.5,1095.66 1190.5,978.84L1190.5,221.16Z" style="fill:#3c3c3c;"/>
+        <g id="Logo">
+            <g id="Aethor-Icon" serif:id="Aethor Icon">
+                <path d="M326.957,922.09L873.043,922.09L793.418,749.275C692.391,664.73 532.804,672.923 507.656,823.493C491.501,920.217 326.957,922.09 326.957,922.09Z" style="fill:url(#_Linear1);"/>
+                <path d="M600,240.493L931.697,959.507L268.303,959.507L600,240.493ZM600,329.485L326.957,922.09L873.043,922.09L600,329.485Z" style="fill:#fff;"/>
+                <path d="M600.908,240.075L932.605,959.088L931.697,960.507L268.303,960.507L267.395,959.088L599.092,240.075L600.908,240.075ZM600,240.493L268.303,959.507L931.697,959.507L600,240.493ZM600,329.485L873.043,922.09L326.957,922.09L600,329.485ZM600,331.875L328.519,921.09L871.481,921.09L600,331.875Z" style="fill:#fff;"/>
+            </g>
+        </g>
+    </g>
+    <rect id="Artboard1" x="0" y="0" width="1200" height="1200" style="fill:none;"/>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-231.418,-521.174,521.174,-231.418,737.187,959.507)"><stop offset="0" style="stop-color:#b25ce7;stop-opacity:1"/><stop offset="0.51" style="stop-color:#6d6fe9;stop-opacity:0.89"/><stop offset="1" style="stop-color:#5576ea;stop-opacity:0.85"/></linearGradient>
+    </defs>
+</svg>
